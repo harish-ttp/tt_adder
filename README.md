@@ -2,17 +2,24 @@
 4 bit adder
 It receives 2 numbers of 4 bits and performs the addition internally, to finally give it to the output pin.
 
-Imagen7
+![image](https://github.com/user-attachments/assets/523ed339-5500-475b-9832-ffdd33ee9b59)
+
 How do we achieve this?
-4-bit-adder
+
+![image](https://github.com/user-attachments/assets/ac0c3ff0-8db5-4dbe-8044-fc7ed59b85fb)
+
 
 A half adder and 3 full adders are used.
 
 Half adder
-Imagen4
+
+![image](https://github.com/user-attachments/assets/642d878f-9f65-40e7-97d3-82e38baf0e41)
+
 
 Full adder
-Imagen5
+
+![Uploading image.png…]()
+
 
 
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
