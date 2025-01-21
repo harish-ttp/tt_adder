@@ -2,7 +2,7 @@
 project:
   title:        "4 bit adder"      # Project title
   author:       "harish-ttp"      # Your name
-  discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
+  discord:      " "      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Add two 4 bit numbers"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
