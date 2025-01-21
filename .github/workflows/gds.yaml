@@ -15,6 +15,10 @@ jobs:
 
       - name: Build GDS
         uses: TinyTapeout/tt-gds-action@tt04
+        env:
+          OPENLANE_TAG: 2023.06.26
+          OPENLANE_IMAGE_NAME: efabless/openlane:3bc9d02d0b34ad032921553e512fbe4bebf1d833
+          OPENLANE_ROOT: /home/runner/openlane
 
   viewer:
     needs: gds
