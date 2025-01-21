@@ -1,3 +1,20 @@
+
+4 bit adder
+It receives 2 numbers of 4 bits and performs the addition internally, to finally give it to the output pin.
+
+Imagen7
+How do we achieve this?
+4-bit-adder
+
+A half adder and 3 full adders are used.
+
+Half adder
+Imagen4
+
+Full adder
+Imagen5
+
+
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
 # Tiny Tapeout Verilog Project Template
