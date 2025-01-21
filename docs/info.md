@@ -9,12 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Consists of 4 adders, 1 half adder and 3 full adders
 
 ## How to test
 
-Explain how to use your project
+ Between bit 0 to 3 set the first number, and from pin 4 to 7 set the second number.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+![Uploading image.png…]()
+
